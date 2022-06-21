@@ -33,7 +33,8 @@ const Home = () => {
           </div>
         </div>
         <div className="home-content-c">
-          <span className="home-date">Sábado 13 de Agosto</span>
+          <div className="home-empty-div"></div>
+          <p className="home-date">Sábado 13 de Agosto</p>
         </div>
       </div>
     </div>
