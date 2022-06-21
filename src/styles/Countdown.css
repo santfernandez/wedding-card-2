@@ -74,7 +74,7 @@
         min-height: 25vh;
         display: flex;
         justify-content: center;
-        background-color: rgb(42, 70, 113);
+        background-color: #fff;
     }
 
     .countdown-container {
@@ -82,7 +82,7 @@
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        gap: 8px;
+        gap: 16px;
     }
 
 
@@ -91,7 +91,7 @@
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        gap: 8px
+        gap: 16px
     }
 
     .countdown-container-row-b {
@@ -99,7 +99,7 @@
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        gap: 8px
+        gap: 16px
     }
 
     .number-container {
@@ -113,8 +113,8 @@
         font-family: 'Encode Sans Condensed', sans-serif;
         padding: 0.3em 0.3em;
         font-size: 1em;
-        width: 15vw;
-        height: 18vh;
+        width: 20vw;
+        height: 20vh;
         font-weight: bold;
         box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.25);
     }

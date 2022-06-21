@@ -116,7 +116,7 @@
         background-repeat: no-repeat;
         background-size: 50vw;
         background-position: right;
-        background-color: #FFDFCD;
+        background-color: #FFF;
         font-family: 'Encode Sans Condensed', sans-serif;
         min-height: 50vh;
         display: flex;
@@ -164,7 +164,7 @@
 
     .venue-info-event>h2 {
         font-family: 'Galada', cursive;
-        color: #2A4671;
+        color: #C78E4C;
     }
 
     .venue-info-address>p {
@@ -178,9 +178,9 @@
     }
 
     .venue-info-button>button {
-        background-color: #4E5975;
+        background-color: #F5D3A0;
         border-radius: 50px;
-        color: #FFDFCD;
+        color: #000;
         padding: 0.6em 0.4em;
         text-align: center;
         text-decoration: none;
@@ -194,7 +194,7 @@
 
     .venue-info-button>button>a:link,
     a:visited {
-        color: #FFDFCD;
+        color: #000;
         text-decoration: none;
     }
 

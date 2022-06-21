@@ -1,19 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=Denk+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@200;300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
 
 @media (min-width: 600px) {}
 
 @media (max-width: 600px) {
     .about-us {
         padding: 20px 0 20px 0;
-        background-color: #FFDFCD;
+        background-color: #fff;
     }
 
     .about-us-title {
         color: #2A4671;
-        font-family: 'Denk One', sans-serif;
+        font-family: 'Galada', cursive;
         font-size: 2em;
-        padding: 10px 0px 20px 16px;
-        text-align: left;
+        text-align: center;
+    }
+
+    .about-us-p {
+        font-family: 'Encode Sans Condensed', sans-serif;
+        text-align: center;
+        padding: 0 20px 0 20px;
     }
 
     .about-us-images-container {

@@ -4,19 +4,25 @@ import "../styles/Home.css";
 const Home = () => {
   return (
     <div className="home">
-      <div className="rectangle-background">
-        <div className="date-and-icon">
-          <img
-            className="home-icon"
-            src={`https://drive.google.com/uc?export=view&id=1Z5ERq9IyFtww_cKvXTwYj7xY54Nebon4`}
-          />
+      <div className="home-content">
+        <div className="home-content-a">
+          <div className="date-and-icon">
+            <img
+              className="home-icon"
+              src={`https://drive.google.com/uc?export=view&id=15CuDnbYptFxsUG82KM8cPWmrVs1hqWIV`}
+            />
+          </div>
         </div>
-        <div className="title">
-          <h2>Matias</h2>
-          <p className="middle-title">&</p>
-          <h2>Solana</h2>
+        <div className="home-content-b">
+          <div className="home-title">
+            <h2>Joaquín</h2>
+            <p className="middle-title">&</p>
+            <h2>Sofía</h2>
+          </div>
         </div>
-        <span className="home-date">07|05|22</span>
+        <div className="home-content-c">
+          <span className="home-date">Sábado 13 de Agosto</span>
+        </div>
       </div>
     </div>
   );
