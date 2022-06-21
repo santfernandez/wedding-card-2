@@ -24,17 +24,17 @@ export default function GiftModal({ open, onClose }) {
           <div className="gift-modal-all-info">
             <div className="gift-modal-info-container">
               <p className="gift-modal-info">
-                Brubank- caja de ahorro en pesos
+                Banco Frances - Caja de Ahorro en pesos
               </p>
             </div>
             <div className="gift-modal-info-container">
-              <p className="gift-modal-info">Alias: casamiento-luytano</p>
+              <p className="gift-modal-info">Alias:</p>
             </div>
             <div className="gift-modal-info-container">
-              <p className="gift-modal-info">CBU: 14300017 - 13016281680013</p>
+              <p className="gift-modal-info">CBU: </p>
             </div>
             <div className="gift-modal-info-container">
-              <p className="gift-modal-info">Nro de cuenta: 1301628168001</p>
+              <p className="gift-modal-info">Nro de cuenta: </p>
             </div>
           </div>
           <h2 className="gift-modal-greetings">¡Muchas gracias!</h2>

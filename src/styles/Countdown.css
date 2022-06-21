@@ -110,10 +110,10 @@
         flex-direction: column;
         justify-content: center;
         font-family: 'Encode Sans Condensed', sans-serif;
-        padding: 0.3em 0.3em;
-        font-size: 1em;
+        padding: 0.2em 0.2em;
+        font-size: 1.2em;
         width: 20vw;
-        height: 20vh;
+        height: 15vh;
         font-weight: bold;
         box-shadow: 2px 4px 14px rgba(0, 0, 0, 0.25);
     }
@@ -121,7 +121,7 @@
     .number-container>p {
         margin: 0px;
         font-family: 'Galada', cursive;
-        font-size: 1.5em;
+        font-size: 1.7em;
         justify-content: center;
     }
 }
