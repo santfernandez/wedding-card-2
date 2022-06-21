@@ -10,7 +10,7 @@ const Home = () => {
             <img
               className="home-icon"
               src={`https://drive.google.com/uc?export=view&id=1pyQr_TMOb5REBhjjJ2yZwy5PTzeFaEyp`}
-              alt="married couple holding hands"
+              alt="wedding rings blending"
             />
             <div className="home-phrase">
               <svg viewBox="0 0 500 500" className="home-phrase-text">
