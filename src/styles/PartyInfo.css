@@ -93,10 +93,7 @@
 
 @media (max-width: 600px) {
     .party-info {
-        background-image: url("http://drive.google.com/uc?export=view&id=1hbs2Os0afN3kosR0-GyguNGVSpP6bpdl");
-        background-repeat: no-repeat;
-        background-size: 30vw;
-        background-color: #FFE2CD;
+        background-color: #fff;
         font-family: 'Galada', cursive;
         min-height: 50vh;
         display: flex;
@@ -109,21 +106,21 @@
     }
 
     .party-info-title {
-        font-family: 'Denk One', sans-serif;
+        font-family: 'Galada', cursive;
         font-size: 2.5em;
         order: 1;
-        color: #2A4671;
+        color: #C78E4C;
         margin: 0;
         padding-top: 30px;
     }
 
     .party-info-subtitle {
-        font-family: 'Dancing Script', cursive;
+        font-family: 'Galada', cursive;
         font-weight: 300;
         font-size: 2em;
         margin: 0px;
-        padding: 0 0 20px 0;
-        color: #2A4671;
+        padding: 10px 0 20px 0;
+        color: #C78E4C;
     }
 
     .party-info-row-a {
@@ -145,16 +142,16 @@
 
 
     .party-info-button {
-        background-color: #4E5975;
+        background-color: #F5D3A0;
         border-radius: 40px;
-        color: #FFF;
+        color: #000;
         font-family: 'Encode Sans Condensed', sans-serif;
         text-align: center;
         text-decoration: none;
         display: inline-block;
         padding: 0.5em;
         font-size: 1em;
-        width: 50vw;
+        min-width: 70vw;
         font-weight: bold;
         border-style: none;
         min-height: 10vh;
@@ -163,5 +160,11 @@
     .party-info-image>img {
         height: auto;
         max-width: 20vw;
+    }
+
+    .party-dresscode {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 }

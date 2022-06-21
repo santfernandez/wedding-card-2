@@ -106,7 +106,7 @@
         background-color: #FFFBF7;
         border-radius: 5px;
         box-sizing: border-box;
-        color: rgb(42, 70, 113);
+        color: #2A4671;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -116,7 +116,7 @@
         width: 20vw;
         height: 20vh;
         font-weight: bold;
-        box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.25);
+        box-shadow: 2px 4px 14px rgba(0, 0, 0, 0.25);
     }
 
     .number-container>p {

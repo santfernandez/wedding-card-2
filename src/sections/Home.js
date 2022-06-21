@@ -9,7 +9,7 @@ const Home = () => {
           <div className="date-and-icon">
             <img
               className="home-icon"
-              src={`https://drive.google.com/uc?export=view&id=15CuDnbYptFxsUG82KM8cPWmrVs1hqWIV`}
+              src={`https://drive.google.com/uc?export=view&id=1pyQr_TMOb5REBhjjJ2yZwy5PTzeFaEyp`}
             />
           </div>
         </div>

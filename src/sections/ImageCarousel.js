@@ -15,18 +15,25 @@ const ImageCarousel = () => {
 
   return (
     <div>
-      <Carousel pause="hover" className="">
+      <Carousel pause="hover">
         <Carousel.Item>
           <img
             className="img-carousel"
-            src={`http://drive.google.com/uc?export=view&id=1LEiHDydZutzE3fhKjY80TUQgPTKNCepM`}
+            src={`http://drive.google.com/uc?export=view&id=1z5FNEwo_99MBfgOyqSj83jllSNL55SUy`}
             fluid
           />
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="img-carousel"
-            src={`http://drive.google.com/uc?export=view&id=1z5FNEwo_99MBfgOyqSj83jllSNL55SUy`}
+            src={`http://drive.google.com/uc?export=view&id=1_qPW1h70N6NSG9robebXaI98Y-kkbcw5`}
+            fluid
+          />
+        </Carousel.Item>
+        <Carousel.Item>
+          <img
+            className="img-carousel"
+            src={`http://drive.google.com/uc?export=view&id=1VykLD6UASKVSUPUFaMytHQE6JWhkvWg4`}
             fluid
           />
         </Carousel.Item>

@@ -8,6 +8,7 @@ import AboutUs from "./sections/AboutUs";
 import ImageCarousel from "./sections/ImageCarousel";
 import PartyInfo from "./sections/PartyInfo";
 import Instagram from "./sections/Instagram";
+import Greetings from "./sections/Greetings";
 import Footer from "./sections/Footer";
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <ImageCarousel />
       <PartyInfo />
       <Instagram />
+      <Greetings />
       <Footer />
     </div>
   );

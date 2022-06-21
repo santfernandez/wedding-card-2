@@ -153,11 +153,13 @@
 
     .venue-info-content {
         line-height: 0.2em;
-        font-size: 1.2em;
+    }
+
+    .venue-info-content>p {
+        margin: 0;
     }
 
     .venue-info-event {
-        line-height: 0.4em;
         font-size: 1.5em;
         font-family: 'Galada', cursive;
     }
@@ -166,6 +168,12 @@
         font-family: 'Galada', cursive;
         color: #C78E4C;
     }
+
+    .venue-info-list-title {
+        font-weight: bold;
+        padding: 4px;
+    }
+
 
     .venue-info-address>p {
         line-height: 1.3em;
@@ -185,7 +193,7 @@
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 1.5em;
+        font-size: 1.3em;
         font-family: 'Encode Sans Condensed', sans-serif;
         width: 100%;
         font-weight: bold;
