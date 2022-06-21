@@ -171,7 +171,7 @@
     }
 
     .home-content {
-        margin: 20px 0px 20px 0px;
+        margin: 20px 0px 10px 0px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -199,7 +199,7 @@
     }
 
     .home-content-c {
-        padding: 170px 0 0 0;
+        padding: 200px 0 0 0;
     }
 
 

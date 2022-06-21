@@ -10,7 +10,7 @@ const Instagram = () => {
         />
       </div>
       <div className="instagram-section-hashtag">
-        <p>#JoaquínYSofía</p>
+        <p>#JoacoYSofi</p>
       </div>
       <div className="instagram-section-phrase">
         <p>Compartí la experiencia usando el hashtag</p>
@@ -19,7 +19,7 @@ const Instagram = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.instagram.com/explore/tags/luytano/?hl=es"
+          href="https://www.instagram.com/explore/tags/joacoysofi/?hl=es"
           className="instagram-link"
         >
           <p>Ver en Instagram</p>
