@@ -140,18 +140,19 @@
 
 
     .party-info-button {
-        background-color: #F5D3A0;
-        border-radius: 40px;
-        color: #000;
-        font-family: 'Encode Sans Condensed', sans-serif;
+        background-color: #EDC48C;
+        border-radius: 50px;
+        color: black;
+        padding: 0.5em 0.4em;
         text-align: center;
         text-decoration: none;
-        padding: 0.5em;
+        display: inline-block;
         font-size: 1em;
-        min-width: 70vw;
+        min-width: 60vw;
+        font-family: 'Encode Sans Condensed', sans-serif;
         font-weight: bold;
         border-style: none;
-        min-height: 10vh;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     }
 
     .party-info-image>img {
