@@ -11,6 +11,17 @@ const Home = () => {
               className="home-icon"
               src={`https://drive.google.com/uc?export=view&id=1pyQr_TMOb5REBhjjJ2yZwy5PTzeFaEyp`}
             />
+            <div className="home-phrase">
+              <svg viewBox="0 0 500 500" className="home-phrase-text">
+                <path
+                  id="curve"
+                  d="M73.2,148.6c4-6.1,65.5-96.8,178.6-95.6c111.3,1.2,170.8,90.3,175.1,97"
+                />
+                <text width="500">
+                  <textPath xlinkHref="#curve">¡Nos casamos!</textPath>
+                </text>
+              </svg>
+            </div>
           </div>
         </div>
         <div className="home-content-b">

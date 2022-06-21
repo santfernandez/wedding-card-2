@@ -183,6 +183,26 @@
         align-items: center;
     }
 
+    .home-phrase {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .home-phrase-text {
+        width: 50vw;
+        font-size: 4em;
+        transform: rotate(5deg);
+    }
+
+    .home-phrase-text>path {
+        fill: transparent;
+    }
+
+    .home-phrase-text>text {
+        font-family: 'Galada', cursive;
+        fill: #2A4671;
+    }
 
     .home-icon {
         height: auto;
