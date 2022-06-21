@@ -5,6 +5,7 @@ import Countdown from "./sections/Countdown";
 import VenueInfo from "./sections/VenueInfo";
 import RSVP from "./sections/RSVP";
 import AboutUs from "./sections/AboutUs";
+import ImageCarousel from "./sections/ImageCarousel";
 import PartyInfo from "./sections/PartyInfo";
 import Instagram from "./sections/Instagram";
 import Footer from "./sections/Footer";
@@ -17,6 +18,7 @@ function App() {
       <VenueInfo />
       <RSVP />
       <AboutUs />
+      <ImageCarousel />
       <PartyInfo />
       <Instagram />
       <Footer />
