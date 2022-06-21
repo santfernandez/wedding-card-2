@@ -3,31 +3,57 @@
 @import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
 
 @media (min-width: 600px) {
-    .rsvp {
+    .rsvp-container {
         display: flex;
         flex-flow: column;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .rsvp {
+        background-color: #FFFBF7;
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
         order: 1;
-        padding-top: 100px;
+        color: #2A4671;
+        padding: 32px;
+        min-height: 230px;
+        box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.25);
+        margin: 10px 0 90px 0;
+        width: 70%;
+    }
+
+    .rsvp-title {
+        font-family: 'Galada', cursive;
+        font-size: 4em;
+    }
+
+    .rsvp-info {
+        font-family: 'Galada', cursive;
+        font-size: 2.5em;
+        margin: 0px;
+        padding-top: 8px;
     }
 
     .rsvp>button {
-        background-color: #FFFBF7;
+        background-color: #465E82;
         border-radius: 50px;
-        color: black;
+        color: #fff;
         padding: 0.5em 0.4em;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 2.7em;
+        font-size: 1.7em;
         font-family: 'Encode Sans Condensed', sans-serif;
         font-weight: 700;
-        width: 50vw;
-        font-weight: bold;
         border-style: none;
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-        cursor: pointer;
+        margin-top: 35px;
+        min-width: 30vw;
     }
-
 }
 
 @media (max-width: 600px) {
@@ -73,11 +99,5 @@
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
         margin-top: 35px;
         min-width: 50vw;
-    }
-
-    .venue-info-image>img {
-        height: auto;
-        max-width: 25vw;
-        padding-bottom: 30px;
     }
 }

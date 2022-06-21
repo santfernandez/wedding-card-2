@@ -9,10 +9,9 @@
 @media (min-width: 600px) {
 
     .home {
-        background-image: url("https://drive.google.com/uc?export=view&id=15CuDnbYptFxsUG82KM8cPWmrVs1hqWIV");
+        background-image: url("https://drive.google.com/uc?export=view&id=1PVyMrgHGu7z_k_9l_idrSvecvW5xYSwl");
         background-repeat: no-repeat;
         background-size: cover;
-        min-height: 60vh;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -23,13 +22,11 @@
     }
 
     .home-content {
-        margin: 100px 0px 50px 0;
-        padding: 15px;
+        padding: 50px 0 50px 0;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        background-color: rgba(249, 245, 239, 0.65);
         min-height: 30vh;
         min-width: 30vw;
         border-radius: 20px;
@@ -106,26 +103,55 @@
 
     }
 
+    .home-phrase {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .home-phrase-text {
+        width: 20vw;
+        font-size: 4em;
+        transform: rotate(5deg);
+    }
+
+    .home-phrase-text>path {
+        fill: transparent;
+    }
+
+    .home-phrase-text>text {
+        font-family: 'Galada', cursive;
+        fill: #2A4671;
+    }
+
     .home-date {
-        font-family: 'Encode Sans Semi Expanded', sans-serif;
-        font-size: 1.5em;
+        font-family: 'Galada', cursive;
+        padding-top: 200px;
+        font-size: 3em;
         text-shadow: none;
         color: #2A4671;
     }
 
-    .title>h2 {
+    .home-title {
+        display: flex;
+        gap: 8px;
+    }
+
+    .home-title>h2 {
         margin: 0px;
-        font-size: 8em;
-        color: #444C68;
+        font-size: 10em;
+        color: #202949;
         font-family: 'Dancing Script', cursive;
         font-weight: 300;
     }
 
     .middle-title {
         margin: 0px;
-        font-size: 4em;
-        color: #444C68;
+        padding-top: 10px;
+        font-size: 8em;
+        color: #202949;
         font-family: 'Gentium Book Basic', serif;
+        transform: rotate(15.13deg);
     }
 
 }

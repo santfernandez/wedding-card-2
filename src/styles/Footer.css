@@ -6,37 +6,30 @@
         background-image: url("http://drive.google.com/uc?export=view&id=1JJyioRfD-QidORssJCRWynl5RTFhSFnr");
         background-repeat: no-repeat;
         background-position: right;
-        font-family: 'Ubuntu', sans-serif;
-        font-weight: 400;
+        background-color: #465E82;
         text-align: center;
         display: flex;
         align-items: center;
         justify-content: center;
-    }
-
-    .footer-info {
         min-height: 30vh;
     }
 
     .footer-lenaria {
-        padding: 10px 35vw;
-        background-color: rgba(237, 196, 140, 0.8);
+        padding: 10px 20px;
+        font-family: 'Encode Sans Condensed', sans-serif;
+        font-weight: 700;
+        color: #000;
+        font-size: 2em;
     }
 
-    .footer-info>p {
-        background-color: rgba(237, 196, 140, 0.8);
-        text-align: left;
-        margin-bottom: 1em;
-        padding: 20px 0 0 20px;
-        font-size: 2.5em;
-        color: #000;
-    }
 
     .footer-link:link,
     .footer-link:visited {
-        color: #c72121;
+        font-family: 'Encode Sans', sans-serif;
+        color: #fff;
         text-decoration: none;
-        padding-right: 10px;
+        padding-right: 5px;
+        font-size: 1em;
     }
 }
 
