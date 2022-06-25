@@ -29,7 +29,7 @@ const VenueInfo = () => {
             </div>
             <div className="venue-info-address">
               <h4 className="venue-info-list-title">Dirección</h4>
-              <p>San Martín 3205, SM de Tucumán</p>
+              <p>Castro Barros 81, SM de Tucumán</p>
             </div>
           </div>
           <div className="venue-info-button">
@@ -37,7 +37,7 @@ const VenueInfo = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://goo.gl/maps/9hy8zLpiVS9EjkpJ7"
+                href="https://goo.gl/maps/pjtvbVfHYsN4ER9s7"
               >
                 Cómo llegar
               </a>
@@ -64,11 +64,11 @@ const VenueInfo = () => {
             </div>
             <div className="venue-info-venue">
               <h4 className="venue-info-list-title">Lugar</h4>
-              <p>La Escondida eventos</p>
+              <p>Florentina Eventos</p>
             </div>
             <div className="venue-info-addres">
               <h4 className="venue-info-list-title">Dirección</h4>
-              <p>Saavedra Lamas 605, Yerba Buena</p>
+              <p>Av. Aconquija 3017, Yerba Buena</p>
             </div>
           </div>
           <div className="venue-info-button">
@@ -76,7 +76,7 @@ const VenueInfo = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://goo.gl/maps/kAbPHbbyrnAPdWED7"
+                href="https://goo.gl/maps/WUa6KaeUT85DWeNV9"
               >
                 Cómo llegar
               </a>
