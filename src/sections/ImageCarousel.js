@@ -19,19 +19,19 @@ const ImageCarousel = () => {
         <Carousel.Item>
           <img
             className="img-carousel"
-            src={`https://drive.google.com/uc?export=view&id=1z5FNEwo_99MBfgOyqSj83jllSNL55SUy`}
+            src={`https://drive.google.com/uc?export=view&id=1o98ZVGFI4axk6h6CRX9lcKeP59JWOgQY`}
           />
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="img-carousel"
-            src={`https://drive.google.com/uc?export=view&id=1_qPW1h70N6NSG9robebXaI98Y-kkbcw5`}
+            src={`https://drive.google.com/uc?export=view&id=1pH7LLqNdFEE-aNz34zvFfNiE-0fcsQGu`}
           />
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="img-carousel"
-            src={`https://drive.google.com/uc?export=view&id=1VykLD6UASKVSUPUFaMytHQE6JWhkvWg4`}
+            src={`https://drive.google.com/uc?export=view&id=1AuJZHvRjdKg4QBaWn-L9Tf7nN0R9Oe-X`}
           />
         </Carousel.Item>
       </Carousel>
