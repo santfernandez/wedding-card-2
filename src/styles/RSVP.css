@@ -38,7 +38,7 @@
         padding-top: 8px;
     }
 
-    .rsvp>button {
+    .rsvp-button {
         background-color: #465E82;
         border-radius: 50px;
         color: #fff;
@@ -53,6 +53,16 @@
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
         margin-top: 35px;
         min-width: 30vw;
+    }
+
+    .rsvp-button>a>p {
+        margin: 0;
+    }
+
+    .rsvp-link:link,
+    .rsvp-link:visited {
+        color: #000;
+        text-decoration: none;
     }
 }
 
@@ -83,7 +93,7 @@
         padding-top: 8px;
     }
 
-    .rsvp>button {
+    .rsvp-button {
         background-color: #465E82;
         border-radius: 50px;
         color: #fff;
@@ -97,5 +107,15 @@
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
         margin-top: 35px;
         min-width: 50vw;
+    }
+
+    .rsvp-button>a>p {
+        margin: 0;
+    }
+
+    .rsvp-link:link,
+    .rsvp-link:visited {
+        color: #000;
+        text-decoration: none;
     }
 }
