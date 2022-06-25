@@ -18,7 +18,7 @@ const PartyInfo = () => {
           <div className="party-music">
             <div className="party-info-image">
               <img
-                src={`http://drive.google.com/uc?export=view&id=1wy4o1LVet1O2JL5g7E7O1DpK-9spAFgh`}
+                src={`https://drive.google.com/uc?export=view&id=1wy4o1LVet1O2JL5g7E7O1DpK-9spAFgh`}
               />
             </div>
             <h2 className="party-info-subtitle">Música</h2>
@@ -37,7 +37,7 @@ const PartyInfo = () => {
           <div className="party-dresscode">
             <div className="party-info-image">
               <img
-                src={`http://drive.google.com/uc?export=view&id=1GyW5Ih5eb80oZd9PGjeZ0kpym2M8ZwZZ`}
+                src={`https://drive.google.com/uc?export=view&id=1GyW5Ih5eb80oZd9PGjeZ0kpym2M8ZwZZ`}
               />
             </div>
             <h2 className="party-info-subtitle">Dress Code</h2>
@@ -59,7 +59,7 @@ const PartyInfo = () => {
           <div className="party-gifts">
             <div className="party-info-image">
               <img
-                src={`http://drive.google.com/uc?export=view&id=1_Rky4oUVU4GVFkqn9hwu9M_wYYt5Eqh1`}
+                src={`https://drive.google.com/uc?export=view&id=1_Rky4oUVU4GVFkqn9hwu9M_wYYt5Eqh1`}
               />
             </div>
             <h2 className="party-info-subtitle">Regalos</h2>

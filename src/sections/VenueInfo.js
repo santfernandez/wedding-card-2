@@ -8,7 +8,7 @@ const VenueInfo = () => {
         <div className="ceremony">
           <div className="venue-info-image">
             <img
-              src={`http://drive.google.com/uc?export=view&id=1uEkGHjrKWitlUUMP2pLrSnUvVtiff0AG`}
+              src={`https://drive.google.com/uc?export=view&id=1uEkGHjrKWitlUUMP2pLrSnUvVtiff0AG`}
             />
           </div>
           <div className="venue-info-content">
@@ -47,7 +47,7 @@ const VenueInfo = () => {
         <div className="party">
           <div className="venue-info-image">
             <img
-              src={`http://drive.google.com/uc?export=view&id=18lMTNIsrqCLCrhTa-YHEkDHkm-e5uIeI`}
+              src={`https://drive.google.com/uc?export=view&id=18lMTNIsrqCLCrhTa-YHEkDHkm-e5uIeI`}
             />
           </div>
           <div className="venue-info-content">
